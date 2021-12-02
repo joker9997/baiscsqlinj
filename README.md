@@ -13,6 +13,6 @@ the key here is input
 --------------------------------------------------------
 about me :
 my name is hamza salama and my age is 16 
-help me to improve the script if you have any comments you cat dm me 
-this is my soical media :
+help me to improve the script if you have any comments you can dm me 
+my soical media :
 facebook:https://www.facebook.com/DrRoot777
